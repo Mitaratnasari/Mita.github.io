@@ -1,0 +1,13 @@
+
+body {
+    background-color: rgb(247, 161, 211);
+    position:absolute; 
+    width: 100%; 
+    height: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    font-family:monospace; 
+    text-align:left; 
+}
